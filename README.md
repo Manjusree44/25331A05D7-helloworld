@@ -1,1 +1,8 @@
-# 25331A05D7-helloworld
+#include<stdio.h>
+
+int main(){
+printf(“hello world”);
+ 
+return 0;
+}
+
